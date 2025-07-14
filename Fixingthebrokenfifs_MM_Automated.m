@@ -1,3 +1,4 @@
+%Script written by Lauren Webert and Nathan Petro
 
 brainstorm stop
 clearvars
